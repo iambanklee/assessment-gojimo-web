@@ -43,3 +43,5 @@ group :development, :test do
   gem 'spring'
 end
 
+gem 'gojimo', git: "https://github.com/iambanklee/assessment-gojimo-api.git"
+gem 'bootstrap-sass'
